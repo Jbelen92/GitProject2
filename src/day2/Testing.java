@@ -4,6 +4,8 @@ public class Testing {
 	
 	public static void main(String args []) {
 		
+		String country = "USA";
+		
 		System.out.println("Jorge");
 	}
 	
@@ -16,5 +18,7 @@ public class Testing {
 		
 		System.out.println(a+b+c);
 	}
+	
+	
 
 }
